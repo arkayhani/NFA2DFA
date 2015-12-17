@@ -1,0 +1,9 @@
+C:\Users\Hp\Documents\Visual Studio 2012\Projects\NFA2DFA\NFA2DFA\bin\Debug\NFA2DFA.exe.config
+C:\Users\Hp\Documents\Visual Studio 2012\Projects\NFA2DFA\NFA2DFA\bin\Debug\NFA2DFA.exe
+C:\Users\Hp\Documents\Visual Studio 2012\Projects\NFA2DFA\NFA2DFA\bin\Debug\NFA2DFA.pdb
+C:\Users\Hp\Documents\Visual Studio 2012\Projects\NFA2DFA\NFA2DFA\obj\Debug\NFA2DFA.csprojResolveAssemblyReference.cache
+C:\Users\Hp\Documents\Visual Studio 2012\Projects\NFA2DFA\NFA2DFA\obj\Debug\NFA2DFA.Form1.resources
+C:\Users\Hp\Documents\Visual Studio 2012\Projects\NFA2DFA\NFA2DFA\obj\Debug\NFA2DFA.Properties.Resources.resources
+C:\Users\Hp\Documents\Visual Studio 2012\Projects\NFA2DFA\NFA2DFA\obj\Debug\NFA2DFA.csproj.GenerateResource.Cache
+C:\Users\Hp\Documents\Visual Studio 2012\Projects\NFA2DFA\NFA2DFA\obj\Debug\NFA2DFA.exe
+C:\Users\Hp\Documents\Visual Studio 2012\Projects\NFA2DFA\NFA2DFA\obj\Debug\NFA2DFA.pdb
